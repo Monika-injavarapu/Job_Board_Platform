@@ -1,2 +1,2 @@
-# Job_Board_Platform
+# JobBoard_Platform
 job-portal-app
